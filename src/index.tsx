@@ -2,7 +2,6 @@ import { createServer, Model } from 'miragejs';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {App} from './App';
-import { useTransactions } from './hooks/useTransactions';
 
 
 createServer({
