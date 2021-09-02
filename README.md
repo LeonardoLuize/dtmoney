@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img src="./src/assets/logo.svg">
+</h1>
+<p align="center">Projeto desenvolvido no curso ignite da rocketseat para aprendizado em ReactJs</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+	- Status: ✅ -
+</h4>
 
-## Available Scripts
+### 💲 Sobre
+---
 
-In the project directory, you can run:
+<p>Esta aplicação foi desenvolvida no curso ignite da rocketseat, ela gerencia os dados de entradas e saídas passados por meio de um formulário, mostrando o total de dinheiro com base nos dados já passados.</p>
 
-### `yarn start`
+### 🔌 Como rodar o projeto
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+# Clone este repositório
+$ git clone https://github.com/LeonardoLuize/dtmoney
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Entre na pasta do projeto
+$ cd dtmoney
 
-### `yarn test`
+# Instale as dependências
+$ yarn install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Execute o projeto em desenvolvimento
+$ yarn start
 
-### `yarn build`
+# Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔋 Tecnologias
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Create React App](https://github.com/facebook/create-react-app)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [MirageJs](https://miragejs.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎲 Feito por
+---
 
-### `yarn eject`
+<a href="https://github.com/LeonardoLuize">
+ <img src="https://avatars.githubusercontent.com/u/74014082?v=4" width="100px;"/>
+ <br />
+ <sub><b>Leonardo Luize</b></sub></a> <a href="https://github.com/LeonardoLuize" >💻</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feito por Leonardo Luize 😁
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoluize/)](https://www.linkedin.com/in/leonardoluize/) 
+[![Gmail Badge](https://img.shields.io/badge/-leonardo.luize2@gmail.com-c14438?style=rounded&logo=Gmail&logoColor=white&link=mailto:leonardo.luize2@gmail.com)](mailto:leonardo.luize2@gmail.com)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
